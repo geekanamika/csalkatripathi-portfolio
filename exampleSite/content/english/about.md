@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Me"
+description: "Company Secretary | Delhi"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -10,53 +10,50 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "I strive to be the best and <br> make awesome work."
+  content : "I am an Associate member of the Institute of Company Secretaries and a Commerce graduate from University of Delhi. Currently, serving as a Company Secretary at 4A Group, which is group of companies based in Noida, UP.
 
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+ I have developed expertise in all facets of Corporate Laws, Secretarial Audit, Commercial Laws and regularly advises corporate on matters relating to Setting up business, Financing, Stock Exchange and SEBI Laws Compliances, Business Set up in India and related compliances, Board Meeting and shareholder meetings, NBFC Compliances."
 
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "Download Resume"
+    link : "https://drive.google.com/file/d/1O__xPCJ50OJ_-_uQWYXxmxqVLH3VN7bp/view?usp=sharing"
 
   funfacts:
   # funfacts loop
   - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+    name : "Company Incorporated"
+    count : "20"
 
   # funfacts loop
   - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
-    count : "35000"
+    name : "Annual Compliance"
+    count : "100"
 
   # funfacts loop
   - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
+    name : "Board Report and Annexures"
+    count : "100"
 
   # funfacts loop
   - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
+    name : "DPT-3"
+    count : "50"
 
   # funfacts loop
   - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
+    name : "GST and IT Return"
+    count : "5"
 
   # funfacts loop
   - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+    name : "Conversion"
+    count : "3"
 
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop

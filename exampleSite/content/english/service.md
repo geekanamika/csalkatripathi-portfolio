@@ -46,49 +46,48 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Experience"
+  description : "I am an Associate member of the Institute of Company Secretaries and a Commerce graduate from University of Delhi. Currently, serving as a Company Secretary at 4A Group, which is group of companies based in Noida, UP."
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Incorporation
+      content: "Incorporation/Registration of Companies, LLP, Partnership, Proprietorship, Society & Trust"
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Income Tax
+      content: "IT Return filing, 80G & 12A Registration, making changes/application in PAN"
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: GST Services
+      content: "Registration of GST of Companies,Individual, return filing montly/quarterly/annual"
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
       name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Register existing company or LLP under Startup India initiative or Launching a New Start UP"
 
     # service item loop
     - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: EPF Services
+      content: "EPF registation and Withdrawal"
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Conversion
+      content: "Conversion of Private Company To LLP, LLP to Private Company and OPC to Private Company"
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Trademark, Copyright
+      content: "Online filing of trademark application, Advise on trademark classification"
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Company name removal
+      content: "Company and LLP Name removal from MCA database"
 
 ############################# call to action #################################
 cta:
