@@ -47,7 +47,8 @@ featured_service:
 service:
   enable : true
   title : "Experience"
-  description : "I am an Associate member of the Institute of Company Secretaries and a Commerce graduate from University of Delhi. Currently, serving as a Company Secretary at 4A Group, which is group of companies based in Noida, UP."
+  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
@@ -70,12 +71,12 @@ service:
       content: "Register existing company or LLP under Startup India initiative or Launching a New Start UP"
 
     # service item loop
-    - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-rupee-sign #https://fontawesome.com/v5.15/icons
       name: EPF Services
       content: "EPF registation and Withdrawal"
 
     # service item loop
-    - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-sort-alpha-down-alt #https://fontawesome.com/v5.15/icons
       name: Conversion
       content: "Conversion of Private Company To LLP, LLP to Private Company and OPC to Private Company"
 

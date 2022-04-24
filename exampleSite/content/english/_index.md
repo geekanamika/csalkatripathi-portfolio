@@ -84,22 +84,19 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: "CA Shipra Singh"
+    designation: "Chartered Accountant"
+    content: "Highly professional approach towards the work at hand to ensure proper compliances."
 
   # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: "CA Dinesh Kumar"
+    designation: "Chartered Accountant"
+    content: "A willingness to explore and find solutions to problems, and has the courage to put her foot down as and when required professionally when things seems to be inappropriate."
 
   # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: "Amit Kumar"
+    designation: "CFO - 4A Securities Limited"
+    content: "I would strongly recommend any one using her services with full confidence that they would be complying with company law at all times."
 
 
 ---

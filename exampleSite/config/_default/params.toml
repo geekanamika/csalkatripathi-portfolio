@@ -17,14 +17,11 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
-location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
-"""
+phone = "+91 8800906844"
+email = "csalkatripathi@gmail.com"
+location = "Sector 41, Noida, Uttar Pradesh"  
+
+
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
@@ -89,7 +86,7 @@ baidu = "" # Your verification code
 
 # google map
 [gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -108,15 +105,15 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+#[[social]]
+#title = "facebook"
+#icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/csalkatripathi"
 
 [[social]]
 title = "instagram"
@@ -124,11 +121,6 @@ icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icon
 link = "#"
 
 [[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/alka-tripathi/"
