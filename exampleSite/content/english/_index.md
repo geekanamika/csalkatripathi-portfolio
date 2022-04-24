@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/57226.jpg"
   bg_overlay: true
   title: "Alka Tripathi <br/> Company Secretary"
   # content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
@@ -13,7 +13,7 @@ banner:
 
 ############################# About #################################
 about:
-  enable: false
+  enable: true
   title: "About Me"
   description: "I'm company secretary with 2 years of experience. Completed my CS final paper in 2020 with 4 exemption."
   content: "A highly efficient and competent company secretary with an ability to ensure that a company complies and operates in accordance with statutory and legal provisions. Experience of attending meetings with company shareholders and the board of directors and acting as a point of communication between them. Well presented and highly personable, with a deep knowledge of corporate regulatory and company rules. Excellent organizational skills, highly efficient and methodical with a good eye for detail. Keen to find a challenging secretarial position with a successful and ambitious company that offers opportunities for career development and advancement."
@@ -58,8 +58,8 @@ service:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
-  title: "Fun Facts About Us"
+  enable: false
+  title: "Fun Facts About Me"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop

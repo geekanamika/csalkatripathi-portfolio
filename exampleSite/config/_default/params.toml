@@ -5,9 +5,9 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "50px"
 # logo text will only show when logo is missing.
-logo_text = "Airspace"
+logo_text = "Compnay Secretary"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
