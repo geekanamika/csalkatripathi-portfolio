@@ -47,8 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Experience"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "I'm company secretary with 2 years of experience. Completed my CS final paper in 2020 with 4 exemption. A highly efficient and competent company secretary with an ability to ensure that a company complies and operates in accordance with statutory and legal provisions."
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons

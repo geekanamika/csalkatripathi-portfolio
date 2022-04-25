@@ -13,21 +13,27 @@ about:
   title : "I strive to be the best and <br> make awesome work."
   content : "I am an Associate member of the Institute of Company Secretaries and a Commerce graduate from University of Delhi. Currently, serving as a Company Secretary at 4A Group, which is group of companies based in Noida, UP.
 
+ <br/> <br/> 
  I have developed expertise in all facets of Corporate Laws, Secretarial Audit, Commercial Laws and regularly advises corporate on matters relating to Setting up business, Financing, Stock Exchange and SEBI Laws Compliances, Business Set up in India and related compliances, Board Meeting and shareholder meetings, NBFC Compliances."
 
-  button:
+  button1:
     enable : true
     label : "Download Resume"
     link : "https://drive.google.com/file/d/1O__xPCJ50OJ_-_uQWYXxmxqVLH3VN7bp/view?usp=sharing"
 
+  button2:
+    enable : true
+    label : "Contact me" 
+    link: "contact/"
+
   funfacts:
   # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
+  - icon : "fab fa-acquisitions-incorporated" #https://fontawesome.com/v5.15/icons
     name : "Company Incorporated"
     count : "20"
 
   # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  - icon : "fas fa-layer-group" #https://fontawesome.com/v5.15/icons
     name : "Annual Compliance"
     count : "100"
 
@@ -37,17 +43,17 @@ about:
     count : "100"
 
   # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
+  - icon : "fas fa-business-time" #https://fontawesome.com/v5.15/icons
     name : "DPT-3"
     count : "50"
 
   # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
+  - icon : "fas fa-rupee-sign" #https://fontawesome.com/v5.15/icons
     name : "GST and IT Return"
     count : "5"
 
   # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
+  - icon : "fas fa-sort-alpha-down-alt" #https://fontawesome.com/v5.15/icons
     name : "Conversion"
     count : "3"
 
